@@ -14,17 +14,23 @@ This application allows users to:
 - ➕ Add journal entries
 <img width="524" height="357" alt="f" src="https://github.com/user-attachments/assets/6280c6f1-056d-4ffc-adeb-cab3ac5b542d" />
 
+<img width="486" height="163" alt="o" src="https://github.com/user-attachments/assets/33990e11-8fdc-49a6-a377-1adc16c78751" />
 
 - 📄 View all saved entries
 <img width="463" height="283" alt="i" src="https://github.com/user-attachments/assets/7810f161-9699-42d3-a827-77970cb69fed" />
 
+<img width="462" height="104" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/c6163823-fc59-401c-a960-e0b3a10be796" />
 
-- 🔍 Search entries by keyword
+- appened new line
 <img width="548" height="212" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/141e386a-cbd7-4e6f-80d2-0fd8909ff9f4" />
+
+<img width="489" height="63" alt="u" src="https://github.com/user-attachments/assets/25c04cf5-6954-4f39-a078-f3c5f9a203c2" />
 
 
 - ❌ Exit the application safely
 <img width="459" height="183" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/6de23f68-dfe8-420a-8a14-2191b0c60f61" />
+
+<img width="497" height="86" alt="t" src="https://github.com/user-attachments/assets/8747611d-06a1-40c4-bcf4-f99417c8c011" />
 
 
 All data is stored in a text file (`sample.txt`).
@@ -76,21 +82,9 @@ python main.py
 
 ```
 1. create a file
-<img width="486" height="163" alt="o" src="https://github.com/user-attachments/assets/33990e11-8fdc-49a6-a377-1adc16c78751" />
-
-
 2. write in file and read file
-<img width="462" height="104" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/c6163823-fc59-401c-a960-e0b3a10be796" />
-
-
 3. appened new line 
-<img width="489" height="63" alt="u" src="https://github.com/user-attachments/assets/25c04cf5-6954-4f39-a078-f3c5f9a203c2" />
-
-
 4. Exit
-<img width="497" height="86" alt="t" src="https://github.com/user-attachments/assets/8747611d-06a1-40c4-bcf4-f99417c8c011" />
-
-
 ```
 
 ---
