@@ -19,6 +19,8 @@ This application allows users to:
 - 📄 View all saved entries
 <img width="463" height="283" alt="i" src="https://github.com/user-attachments/assets/7810f161-9699-42d3-a827-77970cb69fed" />
 
+
+
 <img width="462" height="104" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/c6163823-fc59-401c-a960-e0b3a10be796" />
 
 - appened new line
