@@ -17,7 +17,7 @@ This application allows users to:
 
 - 📄 View all saved entries
 <img width="463" height="283" alt="i" src="https://github.com/user-attachments/assets/7810f161-9699-42d3-a827-77970cb69fed" />
-<img width="462" height="104" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/c6163823-fc59-401c-a960-e0b3a10be796" />
+
 
 - appened new line
 <img width="548" height="212" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/141e386a-cbd7-4e6f-80d2-0fd8909ff9f4" />
