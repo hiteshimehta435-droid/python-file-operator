@@ -1,0 +1,1 @@
+Learing file handling in python is fun!line 3: python supports multiple modes of file handling.
